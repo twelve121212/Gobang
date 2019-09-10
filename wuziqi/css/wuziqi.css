@@ -1,0 +1,37 @@
+section{
+	width: 800px;
+	height: 800px;
+	margin: 100px auto;
+	background: url(../images/wuziqi.jpg);
+	overflow: hidden;
+}
+article{
+	margin: 10px;
+	margin-bottom: 0px;
+	overflow: hidden;
+	
+}
+aside{
+	margin: 0 10px;
+	overflow: hidden;
+	}
+aside button{
+	display: block;
+	margin: 3px 3px;
+	width: 46px;
+	height: 46px;
+	/* background: yellow; */
+	float: left;
+	border-radius: 50%;
+	opacity: 0;
+}
+article button{
+	/* display: none; */
+	margin: 3px 3px;
+	width: 46px;
+	height: 46px;
+	/* background: yellow; */
+	float: left;
+	border-radius: 50%;
+	opacity: 0;
+}
